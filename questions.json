@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Gillar du pälsdjur?",
+    "ja": { "Kat": 3,"Hund": 2, "Kanin": 3, "Fisk": 0
+    },
+    "nej": {"Kat": 1,
+      "Hund": 0,
+      "Kanin": 0,
+      "Fisk": 3
+    }
+  },
+  {
+    "question": "Är det viktig för dig att få socialt umgänge med ditt husdjur?",
+    "ja": {
+      "Kat": 2,
+      "Hund": 3,
+      "Kanin": 1,
+      "Fisk": 0
+    },
+    "nej": {
+      "Kat": 1,
+      "Hund": 0,
+      "Kanin": 2,
+      "Fisk": 3
+    }
+  },
+  {
+    "question": "Letar du efter ett lättskött djur?",
+    "ja": {
+      "Kat": 2,
+      "Hund": 0,
+      "Kanin": 1,
+      "Fisk": 3
+    },
+    "nej": {
+      "Kat": 1,
+      "Hund": 3,
+      "Kanin": 2,
+      "Fisk": 0
+    }
+  },
+  {
+    "question": "Gillar du att promenera?",
+    "Ja": {"Kat": 2, "Hund": 3, "Kanin": 1, "Fisk": 0},
+    "Nej": {"Kat": 2, "Hund": 0, "Kanin": 1,"Fisk": 3}
+  },
+  {
+    "question": "Har du svårt att vakna tidigt på morgonen?",
+    "Ja": {"Kat": 1, "Hund": 0, "Kanin": 2, "Fisk": 3},
+    "Nej": {"Kat": 2, "Hund": 3, "Kanin": 1, "Fisk": 0}
+  },
+  {
+    "question": "Har du trägård?",
+    "Ja": {"Kat": 3, "Hund": 3, "Kanin": 2, "Fisk": 0},
+    "Nej": {"Kat": 1, "Hund": 0, "Kanin": 1, "Fisk": 3}
+  },
+  {
+    "question": "Har du mindre barn eller kanske väntar på tillskott i familjen?",
+    "Ja": {"Kat": 1, "Hund": 2, "Kanin": 3, "Fisk": 2},
+    "Nej": {"Kat": 3, "Hund": 0, "Kanin": 0, "Fisk": 2}
+  },
+  {
+    "question": "Föredrar du att husdjuret bor i en bur eller akvarium större delen av tiden?",
+    "Ja": {"Kat": 0, "Hund": 0, "Kanin": 3, "Fisk": 3},
+    "Nej": {"Kat": 3, "Hund": 3, "Kanin": 1, "Fisk": 0}
+  },
+  {
+    "question": "Vill du ha ett stort husdjur?",
+    "Ja": {"Kat": 1, "Hund": 3, "Kanin": 1, "Fisk": 0},
+    "Nej": {"Kat": 2, "Hund": 1, "Kanin": 3, "Fisk": 3}
+  },
+  {
+    "question": "Ska ditt husdjur vara köttätare?",
+    "Ja": {"Kat": 3, "Hund": 2, "Kanin": 0, "Fisk": 0},
+    "Nej": {"Kat": 0, "Hund": 2, "Kanin": 3, "Fisk": 3}
+  },
+  {
+    "question": "Är du redo att spendera runt 500 kronor per månad till ditt husdjur?",
+    "Ja": {"Kat": 3, "Hund": 3, "Kanin": 3, "Fisk": 3},
+    "Nej": {"Kat": 0, "Hund": 0, "Kanin": 2, "Fisk": 3}
+  },
+  {
+    "question": "Vill du ha ett tyst husdjur?",
+    "Ja": {"Kat": 1, "Hund": 0, "Kanin": 3, "Fisk": 3},
+    "Nej": {"Kat": 2, "Hund": 3, "Kanin": 0, "Fisk": 0}
+  },
+  {
+    "question": "Finns det någon, som kan göra sällskap till ditt husdjur, hemma under dagarna?",
+    "Ja": {"Kat": 3, "Hund": 3, "Kanin": 1, "Fisk": 0},
+    "Nej": {"Kat": 1, "Hund": 0, "Kanin": 3, "Fisk": 3}
+  },
+  {
+    "question": "Vill du ha flera husdjur av samma sort?",
+    "Ja": {"Kat": 1, "Hund": 2, "Kanin": 3, "Fisk": 3},
+    "Nej": {"Kat": 3, "Hund": 3, "Kanin": 0, "Fisk": 0}
+  },
+  {
+    "question": "Kommer du att klara av dofter av ditt husdjur?",
+    "Ja": {"Kat": 3, "Hund": 3, "Kanin": 3, "Fisk": 0},
+    "Nej": {"Kat": 1, "Hund": 0, "Kanin": 0, "Fisk": 3}
+  },
+  {
+    "question": "Är du rädd om dina möbler?",
+    "Ja": {"Kat": 0, "Hund": 0, "Kanin": 3, "Fisk": 3},
+    "Nej": {"Kat": 3, "Hund": 3, "Kanin": 3, "Fisk": 3}
+  }
+]
